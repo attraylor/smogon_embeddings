@@ -1,0 +1,1168 @@
+Air Lock
+Anger Point
+Arena Trap
+Aroma Veil
+Aura Break
+Bad Dreams
+Battle Armor
+Battle Bond
+Beast Boost
+Big Pecks
+Cheek Pouch
+Clear Body
+Cloud Nine
+Color Change
+Compound Eyes
+Cursed Body
+Cute Charm
+Dark Aura
+Delta Stream
+Desolate Land
+Dry Skin
+Early Bird
+Effect Spore
+Electric Surge
+Emergency Exit
+Fairy Aura
+Flame Body
+Flare Boost
+Flash Fire
+Flower Gift
+Flower Veil
+Friend Guard
+Full Metal Body
+Fur Coat
+Gale Wings
+Grass Pelt
+Grassy Surge
+Heavy Metal
+Honey Gather
+Huge Power
+Hyper Cutter
+Ice Body
+Innards Out
+Inner Focus
+Iron Barbs
+Iron Fist
+Keen Eye
+Leaf Guard
+Light Metal
+Lightning Rod
+Liquid Ooze
+Liquid Voice
+Long Reach
+Magic Bounce
+Magic Guard
+Magma Armor
+Magnet Pull
+Marvel Scale
+Mega Launcher
+Misty Surge
+Mold Breaker
+Motor Drive
+Natural Cure
+No Guard
+Own Tempo
+Parental Bond
+Poison Heal
+Poison Point
+Poison Touch
+Power Construct
+Power of Alchemy
+Primordial Sea
+Prism Armor
+Psychic Surge
+Pure Power
+Queenly Majesty
+Quick Feet
+Rain Dish
+RKS System
+Rock Head
+Rough Skin
+Run Away
+Sand Force
+Sand Rush
+Sand Stream
+Sand Veil
+Sap Sipper
+Serene Grace
+Shadow Shield
+Shadow Tag
+Shed Skin
+Sheer Force
+Shell Armor
+Shield Dust
+Shields Down
+Skill Link
+Slow Start
+Slush Rush
+Snow Cloak
+Snow Warning
+Solar Power
+Solid Rock
+Soul - Heart
+Speed Boost
+Stance Change
+Sticky Hold
+Storm Drain
+Strong Jaw
+Suction Cups
+Super Luck
+Surge Surfer
+Sweet Veil
+Swift Swim
+Tangled Feet
+Tangling Hair
+Thick Fat
+Tinted Lens
+Toxic Boost
+Tough Claws
+Victory Star
+Vital Spirit
+Volt Absorb
+Water Absorb
+Water Bubble
+Water Compaction
+Water Veil
+Weak Armor
+White Smoke
+Wimp Out
+Wonder Guard
+Wonder Skin
+Zen Mode
+Venusaur - Mega
+Charizard - Mega - X
+Charizard - Mega - Y
+Blastoise - Mega
+Beedrill - Mega
+Pidgeot - Mega
+Rattata - Alola
+Raticate - Alola
+Raticate - Alola - Totem
+Pikachu - Cosplay
+Pikachu - Rock - Star
+Pikachu - Belle
+Pikachu - Pop - Star
+Pikachu - PhD
+Pikachu - Libre
+Pikachu - Original
+Pikachu - Hoenn
+Pikachu - Sinnoh
+Pikachu - Unova
+Pikachu - Kalos
+Pikachu - Alola
+Pikachu - Partner
+Raichu - Alola
+Sandshrew - Alola
+Sandslash - Alola
+Nidoran - F
+Nidoran - M
+Vulpix - Alola
+Ninetales - Alola
+Diglett - Alola
+Dugtrio - Alola
+Meowth - Alola
+Persian - Alola
+Alakazam - Mega
+Geodude - Alola
+Graveler - Alola
+Golem - Alola
+Slowbro - Mega
+Grimer - Alola
+Muk - Alola
+Gengar - Mega
+Exeggutor - Alola
+Marowak - Alola
+Marowak - Alola - Totem
+Kangaskhan - Mega
+Mr. Mime
+Pinsir - Mega
+Gyarados - Mega
+Aerodactyl - Mega
+Mewtwo - Mega - X
+Mewtwo - Mega - Y
+Pichu - Spiky - eared
+Ampharos - Mega
+Steelix - Mega
+Scizor - Mega
+Heracross - Mega
+Houndoom - Mega
+Pokestar Smeargle
+Tyranitar - Mega
+Ho - Oh
+Sceptile - Mega
+Blaziken - Mega
+Swampert - Mega
+Gardevoir - Mega
+Sableye - Mega
+Mawile - Mega
+Aggron - Mega
+Medicham - Mega
+Manectric - Mega
+Sharpedo - Mega
+Camerupt - Mega
+Altaria - Mega
+Castform - Sunny
+Castform - Rainy
+Castform - Snowy
+Banette - Mega
+Absol - Mega
+Glalie - Mega
+Salamence - Mega
+Metagross - Mega
+Latias - Mega
+Latios - Mega
+Kyogre - Primal
+Groudon - Primal
+Rayquaza - Mega
+Deoxys - Attack
+Deoxys - Defense
+Deoxys - Speed
+Wormadam - Sandy
+Wormadam - Trash
+Cherrim - Sunshine
+Lopunny - Mega
+Mime Jr.
+Garchomp - Mega
+Lucario - Mega
+Abomasnow - Mega
+Porygon - Z
+Gallade - Mega
+Rotom - Heat
+Rotom - Wash
+Rotom - Frost
+Rotom - Fan
+Rotom - Mow
+Giratina - Origin
+Shaymin - Sky
+Arceus - Bug
+Arceus - Dark
+Arceus - Dragon
+Arceus - Electric
+Arceus - Fairy
+Arceus - Fighting
+Arceus - Fire
+Arceus - Flying
+Arceus - Ghost
+Arceus - Grass
+Arceus - Ground
+Arceus - Ice
+Arceus - Poison
+Arceus - Psychic
+Arceus - Rock
+Arceus - Steel
+Arceus - Water
+Audino - Mega
+Basculin - Blue - Striped
+Darmanitan - Zen
+Tornadus - Therian
+Thundurus - Therian
+Landorus - Therian
+Kyurem - Black
+Kyurem - White
+Keldeo - Resolute
+Meloetta - Pirouette
+Genesect - Douse
+Genesect - Shock
+Genesect - Burn
+Genesect - Chill
+Greninja - Ash
+Vivillon - Fancy
+Vivillon - Pokeball
+Floette - Eternal
+Meowstic - F
+Aegislash - Blade
+Pumpkaboo - Small
+Pumpkaboo - Large
+Pumpkaboo - Super
+Gourgeist - Small
+Gourgeist - Large
+Gourgeist - Super
+Zygarde - 10%
+Zygarde - Complete
+Diancie - Mega
+Hoopa - Unbound
+Gumshoos - Totem
+Vikavolt - Totem
+Oricorio - Pom - Pom
+Oricorio - Pa'u
+Oricorio - Sensu
+Ribombee - Totem
+Lycanroc - Midnight
+Lycanroc - Dusk
+Wishiwashi - School
+Araquanid - Totem
+Lurantis - Totem
+Salazzle - Totem
+Type: Null
+Silvally - Bug
+Silvally - Dark
+Silvally - Dragon
+Silvally - Electric
+Silvally - Fairy
+Silvally - Fighting
+Silvally - Fire
+Silvally - Flying
+Silvally - Ghost
+Silvally - Grass
+Silvally - Ground
+Silvally - Ice
+Silvally - Poison
+Silvally - Psychic
+Silvally - Rock
+Silvally - Steel
+Silvally - Water
+Minior - Meteor
+Togedemaru - Totem
+Mimikyu - Busted
+Mimikyu - Totem
+Mimikyu - Busted - Totem
+Jangmo - o
+Hakamo - o
+Kommo - o
+Kommo - o - Totem
+Tapu Koko
+Tapu Lele
+Tapu Bulu
+Tapu Fini
+Necrozma - Dusk - Mane
+Necrozma - Dawn - Wings
+Necrozma - Ultra
+Magearna - Original
+Crucibelle - Mega
+Pokestar UFO
+Pokestar UFO-2
+Pokestar Brycen-Man
+Pokestar MT
+Pokestar MT2
+Pokestar Transport
+Pokestar Giant
+Pokestar Humanoid
+Pokestar Monster
+Pokestar F-00
+Pokestar F-002
+Pokestar Spirit
+Pokestar Black Door
+Pokestar White Door
+Pokestar Black Belt
+Pokestar UFO-PropU2
+Absorb Bulb
+Adamant Orb
+Adrenaline Orb
+Aguav Berry
+Air Balloon
+Aloraichium Z
+Apicot Berry
+Armor Fossil
+Aspear Berry
+Assault Vest
+Babiri Berry
+Beast Ball
+Belue Berry
+Berry Juice
+Big Root
+Binding Band
+Black Belt
+Black Sludge
+Black Glasses
+Blue Orb
+Bluk Berry
+Bug Gem
+Bug Memory
+Buginium Z
+Burn Drive
+Cell Battery
+Charizardite X
+Charizardite Y
+Charti Berry
+Cheri Berry
+Cherish Ball
+Chesto Berry
+Chilan Berry
+Chill Drive
+Choice Band
+Choice Scarf
+Choice Specs
+Chople Berry
+Claw Fossil
+Coba Berry
+Colbur Berry
+Cornn Berry
+Cover Fossil
+Custap Berry
+Damp Rock
+Dark Gem
+Dark Memory
+Darkinium Z
+Decidium Z
+Deep Sea Scale
+Deep Sea Tooth
+Destiny Knot
+Dive Ball
+Dome Fossil
+Douse Drive
+Draco Plate
+Dragon Fang
+Dragon Gem
+Dragon Memory
+Dragonium Z
+Dread Plate
+Dream Ball
+Durin Berry
+Dusk Ball
+Earth Plate
+Eevium Z
+Eject Button
+Electric Gem
+Electric Memory
+Electric Seed
+Electrium Z
+Energy Powder
+Enigma Berry
+Expert Belt
+Fairium Z
+Fairy Gem
+Fairy Memory
+Fast Ball
+Fighting Gem
+Fighting Memory
+Fightinium Z
+Figy Berry
+Fire Gem
+Fire Memory
+Firium Z
+Fist Plate
+Flame Orb
+Flame Plate
+Float Stone
+Flying Gem
+Flying Memory
+Flyinium Z
+Focus Band
+Focus Sash
+Friend Ball
+Full Incense
+Ganlon Berry
+Ghost Gem
+Ghost Memory
+Ghostium Z
+Grass Gem
+Grass Memory
+Grassium Z
+Grassy Seed
+Great Ball
+Grepa Berry
+Grip Claw
+Griseous Orb
+Ground Gem
+Ground Memory
+Groundium Z
+Haban Berry
+Hard Stone
+Heal Ball
+Heat Rock
+Heavy Ball
+Helix Fossil
+Hondew Berry
+Iapapa Berry
+Ice Gem
+Ice Memory
+Icicle Plate
+Icium Z
+Icy Rock
+Incinium Z
+Insect Plate
+Iron Ball
+Iron Plate
+Jaboca Berry
+Kasib Berry
+Kebia Berry
+Kee Berry
+Kelpsy Berry
+King's Rock
+Kommonium Z
+Lagging Tail
+Lansat Berry
+Lax Incense
+Leppa Berry
+Level Ball
+Liechi Berry
+Life Orb
+Light Ball
+Light Clay
+Love Ball
+Lucky Punch
+Lum Berry
+Luminous Moss
+Lunalium Z
+Lure Ball
+Lustrous Orb
+Luxury Ball
+Lycanium Z
+Macho Brace
+Mago Berry
+Magost Berry
+Maranga Berry
+Marshadium Z
+Master Ball
+Meadow Plate
+Mental Herb
+Metal Coat
+Metal Powder
+Mewnium Z
+Mewtwonite X
+Mewtwonite Y
+Micle Berry
+Mimikium Z
+Mind Plate
+Miracle Seed
+Misty Seed
+Moon Ball
+Muscle Band
+Mystic Water
+Nanab Berry
+Nest Ball
+Net Ball
+Never-Melt Ice
+Nomel Berry
+Normal Gem
+Normalium Z
+Occa Berry
+Odd Incense
+Old Amber
+Oran Berry
+Pamtre Berry
+Park Ball
+Passho Berry
+Payapa Berry
+Pecha Berry
+Persim Berry
+Petaya Berry
+Pikanium Z
+Pikashunium Z
+Pinap Berry
+Pixie Plate
+Plume Fossil
+Poison Barb
+Poison Gem
+Poison Memory
+Poisonium Z
+Poke Ball
+Pomeg Berry
+Power Anklet
+Power Band
+Power Belt
+Power Bracer
+Power Herb
+Power Lens
+Power Weight
+Premier Ball
+Primarium Z
+Protective Pads
+Psychic Gem
+Psychic Memory
+Psychic Seed
+Psychium Z
+Qualot Berry
+Quick Ball
+Quick Claw
+Quick Powder
+Rabuta Berry
+Rare Bone
+Rawst Berry
+Razor Claw
+Razor Fang
+Razz Berry
+Red Card
+Red Orb
+Repeat Ball
+Rindo Berry
+Ring Target
+Rock Gem
+Rock Incense
+Rock Memory
+Rockium Z
+Rocky Helmet
+Root Fossil
+Rose Incense
+Roseli Berry
+Rowap Berry
+Safari Ball
+Safety Goggles
+Salac Berry
+Scope Lens
+Sea Incense
+Sharp Beak
+Shed Shell
+Shell Bell
+Shock Drive
+Shuca Berry
+Silk Scarf
+Sitrus Berry
+Skull Fossil
+Sky Plate
+Smooth Rock
+Snorlium Z
+Soft Sand
+Solganium Z
+Soul Dew
+Spell Tag
+Spelon Berry
+Splash Plate
+Spooky Plate
+Sport Ball
+Starf Berry
+Steel Gem
+Steel Memory
+Steelium Z
+Sticky Barb
+Stone Plate
+Tamato Berry
+Tanga Berry
+Tapunium Z
+Terrain Extender
+Thick Club
+Timer Ball
+Toxic Orb
+Toxic Plate
+Twisted Spoon
+Ultra Ball
+Ultranecrozium Z
+Wacan Berry
+Water Gem
+Water Memory
+Waterium Z
+Watmel Berry
+Wave Incense
+Weakness Policy
+Wepear Berry
+White Herb
+Wide Lens
+Wiki Berry
+Wise Glasses
+Yache Berry
+Zap Plate
+Zoom Lens
+Berserk Gene
+Bitter Berry
+Burnt Berry
+Dragon Scale
+Gold Berry
+Ice Berry
+Mint Berry
+Miracle Berry
+Mystery Berry
+Pink Bow
+Polkadot Bow
+PRZ Cure Berry
+PSN Cure Berry
+10,000,000 Volt Thunderbolt
+Acid Armor
+Acid Downpour
+Acid Spray
+Aerial Ace
+After You
+Air Cutter
+Air Slash
+All-Out Pummeling
+Ally Switch
+Anchor Shot
+Ancient Power
+Aqua Jet
+Aqua Ring
+Aqua Tail
+Arm Thrust
+Aromatic Mist
+Attack Order
+Aura Sphere
+Aurora Beam
+Aurora Veil
+Baby-Doll Eyes
+Baneful Bunker
+Baton Pass
+Beak Blast
+Beat Up
+Belly Drum
+Black Hole Eclipse
+Blast Burn
+Blaze Kick
+Bloom Doom
+Blue Flare
+Body Slam
+Bolt Strike
+Bone Club
+Bone Rush
+Brave Bird
+Breakneck Blitz
+Brick Break
+Brutal Swing
+Bubble Beam
+Bug Bite
+Bug Buzz
+Bulk Up
+Bullet Punch
+Bullet Seed
+Burn Up
+Calm Mind
+Charge Beam
+Chip Away
+Circle Throw
+Clanging Scales
+Clangorous Soulblaze
+Clear Smog
+Close Combat
+Comet Punch
+Confuse Ray
+Continental Crush
+Conversion 2
+Core Enforcer
+Corkscrew Crash
+Cosmic Power
+Cotton Guard
+Cotton Spore
+Crafty Shield
+Cross Chop
+Cross Poison
+Crush Claw
+Crush Grip
+Dark Pulse
+Dark Void
+Darkest Lariat
+Dazzling Gleam
+Defend Order
+Defense Curl
+Destiny Bond
+Devastating Drake
+Diamond Storm
+Disarming Voice
+Dizzy Punch
+Doom Desire
+Double - Edge
+Double Hit
+Double Kick
+Double Slap
+Double Team
+Draco Meteor
+Dragon Ascent
+Dragon Breath
+Dragon Claw
+Dragon Dance
+Dragon Hammer
+Dragon Pulse
+Dragon Rage
+Dragon Rush
+Dragon Tail
+Draining Kiss
+Drain Punch
+Dream Eater
+Drill Peck
+Drill Run
+Dual Chop
+Dynamic Punch
+Earth Power
+Echoed Voice
+Eerie Impulse
+Egg Bomb
+Electric Terrain
+Electro Ball
+Energy Ball
+Extreme Evoboost
+Extreme Speed
+Feint Attack
+Fairy Lock
+Fairy Wind
+Fake Out
+Fake Tears
+False Swipe
+Feather Dance
+Fell Stinger
+Fiery Dance
+Final Gambit
+Fire Blast
+Fire Fang
+Fire Lash
+Fire Pledge
+Fire Punch
+Fire Spin
+First Impression
+Flame Burst
+Flame Charge
+Flame Wheel
+Flare Blitz
+Flash Cannon
+Fleur Cannon
+Floral Healing
+Flower Shield
+Flying Press
+Focus Blast
+Focus Energy
+Focus Punch
+Follow Me
+Force Palm
+Forest's Curse
+Foul Play
+Freeze - Dry
+Freeze Shock
+Frenzy Plant
+Frost Breath
+Fury Attack
+Fury Cutter
+Fury Swipes
+Fusion Bolt
+Fusion Flare
+Future Sight
+Gastro Acid
+Gear Grind
+Gear Up
+Genesis Supernova
+Giga Drain
+Giga Impact
+Gigavolt Havoc
+Grass Knot
+Grass Pledge
+Grass Whistle
+Grassy Terrain
+Guard Split
+Guard Swap
+Guardian of Alola
+Gunk Shot
+Gyro Ball
+Hammer Arm
+Happy Hour
+Head Charge
+Head Smash
+Heal Bell
+Heal Block
+Heal Order
+Heal Pulse
+Healing Wish
+Heart Stamp
+Heart Swap
+Heat Crash
+Heat Wave
+Heavy Slam
+Helping Hand
+Hidden Power
+Hidden Power Bug
+Hidden Power Dark
+Hidden Power Dragon
+Hidden Power Electric
+Hidden Power Fighting
+Hidden Power Fire
+Hidden Power Flying
+Hidden Power Ghost
+Hidden Power Grass
+Hidden Power Ground
+Hidden Power Ice
+Hidden Power Poison
+Hidden Power Psychic
+Hidden Power Rock
+Hidden Power Steel
+Hidden Power Water
+High Horsepower
+High Jump Kick
+Hold Back
+Hold Hands
+Hone Claws
+Horn Attack
+Horn Drill
+Horn Leech
+Hydro Cannon
+Hydro Pump
+Hydro Vortex
+Hyper Beam
+Hyper Fang
+Hyperspace Fury
+Hyperspace Hole
+Hyper Voice
+Ice Ball
+Ice Beam
+Ice Burn
+Ice Fang
+Ice Hammer
+Ice Punch
+Ice Shard
+Icicle Crash
+Icicle Spear
+Icy Wind
+Inferno Overdrive
+Ion Deluge
+Iron Defense
+Iron Head
+Iron Tail
+Jump Kick
+Karate Chop
+King's Shield
+Knock Off
+Land's Wrath
+Laser Focus
+Last Resort
+Lava Plume
+Leaf Blade
+Leaf Storm
+Leaf Tornado
+Leech Life
+Leech Seed
+Let's Snuggle Forever
+Light of Ruin
+Light Screen
+Light That Burns the Sky
+Lock - On
+Lovely Kiss
+Low Kick
+Low Sweep
+Lucky Chant
+Lunar Dance
+Luster Purge
+Mach Punch
+Magic Coat
+Magic Room
+Magical Leaf
+Magma Storm
+Magnet Bomb
+Magnetic Flux
+Magnet Rise
+Malicious Moonsault
+Mat Block
+Me First
+Mean Look
+Mega Drain
+Mega Kick
+Mega Punch
+Menacing Moonraze Maelstrom
+Metal Burst
+Metal Claw
+Metal Sound
+Meteor Mash
+Milk Drink
+Mind Blown
+Mind Reader
+Miracle Eye
+Mirror Coat
+Mirror Move
+Mirror Shot
+Mist Ball
+Misty Terrain
+Moongeist Beam
+Morning Sun
+Mud - Slap
+Mud Bomb
+Mud Shot
+Mud Sport
+Muddy Water
+Multi - Attack
+Mystical Fire
+Nasty Plot
+Natural Gift
+Nature Power
+Nature's Madness
+Needle Arm
+Never-Ending Nightmare
+Night Daze
+Night Shade
+Night Slash
+Noble Roar
+Oblivion Wing
+Oceanic Operetta
+Odor Sleuth
+Ominous Wind
+Origin Pulse
+Pain Split
+Parabolic Charge
+Parting Shot
+Pay Day
+Perish Song
+Petal Blizzard
+Petal Dance
+Phantom Force
+Photon Geyser
+Pin Missile
+Plasma Fists
+Play Nice
+Play Rough
+Poison Fang
+Poison Gas
+Poison Jab
+Poison Powder
+Poison Sting
+Poison Tail
+Pollen Puff
+Powder Snow
+Power Gem
+Power Split
+Power Swap
+Power Trick
+Power Trip
+Power-Up Punch
+Power Whip
+Precipice Blades
+Prismatic Laser
+Psych Up
+Psychic Fangs
+Psychic Terrain
+Psycho Boost
+Psycho Cut
+Psycho Shift
+Pulverizing Pancake
+Quick Attack
+Quick Guard
+Quiver Dance
+Rage Powder
+Rain Dance
+Rapid Spin
+Razor Leaf
+Razor Shell
+Razor Wind
+Reflect Type
+Relic Song
+Revelation Dance
+Roar of Time
+Rock Blast
+Rock Climb
+Rock Polish
+Rock Slide
+Rock Smash
+Rock Throw
+Rock Tomb
+Rock Wrecker
+Role Play
+Rolling Kick
+Sacred Fire
+Sacred Sword
+Sand Attack
+Sand Tomb
+Savage Spin-Out
+Scary Face
+Searing Shot
+Searing Sunraze Smash
+Secret Power
+Secret Sword
+Seed Bomb
+Seed Flare
+Seismic Toss
+Self - Destruct
+Shadow Ball
+Shadow Bone
+Shadow Claw
+Shadow Force
+Shadow Punch
+Shadow Sneak
+Shattered Psyche
+Sheer Cold
+Shell Smash
+Shell Trap
+Shift Gear
+Shock Wave
+Shore Up
+Signal Beam
+Silver Wind
+Simple Beam
+Sinister Arrow Raid
+Skill Swap
+Skull Bash
+Sky Attack
+Sky Drop
+Sky Uppercut
+Slack Off
+Sleep Powder
+Sleep Talk
+Sludge Bomb
+Sludge Wave
+Smack Down
+Smart Strike
+Smelling Salts
+Spectral Thief
+Speed Swap
+Spiky Shield
+Spirit Shackle
+Soft - Boiled
+Solar Beam
+Solar Blade
+Sonic Boom
+Soul-Stealing 7-Star Strike
+Spacial Rend
+Sparkling Aria
+Spider Web
+Spike Cannon
+Spit Up
+Splintered Stormshards
+Stealth Rock
+Steam Eruption
+Steel Wing
+Sticky Web
+Stoked Sparksurfer
+Stomping Tantrum
+Stone Edge
+Stored Power
+Storm Throw
+Strength Sap
+String Shot
+Struggle Bug
+Stun Spore
+Subzero Slammer
+Sucker Punch
+Sunny Day
+Sunsteel Strike
+Super Fang
+Supersonic Skystrike
+Sweet Kiss
+Sweet Scent
+Swords Dance
+Tail Glow
+Tail Slap
+Tail Whip
+Take Down
+Tearful Look
+Techno Blast
+Tectonic Rage
+Teeter Dance
+Thousand Arrows
+Thousand Waves
+Throat Chop
+Thunder Fang
+Thunder Punch
+Thunder Shock
+Thunder Wave
+Topsy - Turvy
+Toxic Spikes
+Toxic Thread
+Tri Attack
+Trick - or - Treat
+Trick Room
+Triple Kick
+Trop Kick
+Trump Card
+Twinkle Tackle
+U - turn
+V - create
+Vacuum Wave
+Venom Drench
+Vice Grip
+Vine Whip
+Vital Throw
+Volt Switch
+Volt Tackle
+Wake-Up Slap
+Water Gun
+Water Pledge
+Water Pulse
+Water Sport
+Water Spout
+Water Shuriken
+Weather Ball
+Wide Guard
+Wild Charge
+Will - O - Wisp
+Wing Attack
+Wonder Room
+Wood Hammer
+Work Up
+Worry Seed
+Wring Out
+X - Scissor
+Zap Cannon
+Zen Headbutt
+Zing Zap
+Paleo Wave
+Shadow Strike
+Magikarp's Revenge
